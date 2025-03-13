@@ -9,8 +9,6 @@
  🔹 Committed to **continuous learning** and staying updated with the latest tech.  
  🔹 Thrives on **turning challenges into growth opportunities**.  
 
-💡 **Let’s collaborate and create something extraordinary!** 🚀  
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mounika_uppalapati_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppalapati-mounika-9732621b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mounikachawdary2001@gmail.com) 
 
