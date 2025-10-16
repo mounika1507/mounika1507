@@ -1,20 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mounika!;Senior+UI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I'm+Mounika!;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 🚀 **About Me**  
 
-I'm a passionate Full Stack & ML Developer with experience designing and building scalable, high-performance web and AI-driven applications. I specialize in frontend and backend development, integrating cloud architectures and machine learning solutions.
+I'm a passionate **Full Stack & ML Developer** with experience designing and building **scalable, high-performance web and AI-driven applications**. I specialize in **frontend and backend development**, integrating **cloud architectures** and **machine learning solutions**.  
 
-🔹 Skilled in React.js, Angular, JavaScript, TypeScript, Java, and Python
+**🔹 Skills & Expertise:**  
+- React.js, Angular, JavaScript, TypeScript, Java, Python  
+- Node.js, Spring Boot, Express.js, REST APIs, GraphQL, AWS, MongoDB, PostgreSQL  
 
-🔹 Experienced in Node.js, Spring Boot, Express.js, REST APIs, GraphQL, AWS, MongoDB, and PostgreSQL
+**🔹 Projects & Experience:**  
+- Driver Drowsiness Detection System  
+- Self-Supervised Image Classification Network  
+- Forest Fire Prediction Model  
+- Full-stack web apps: GreenBasket, Wellness Tracker, User Registration System  
 
-🔹 Built projects including Driver Drowsiness Detection System, Self-Supervised Image Classification, Forest Fire Prediction, and full-stack apps like GreenBasket, Wellness    Tracker, and User Registration System
-
-🔹 Advocate of Agile workflows, code quality, and maintainable, scalable solutions
-
-🔹 Committed to delivering user-centric, innovative, and intelligent digital experiences
+**🔹 Work Approach & Philosophy:**  
+- Advocate of **Agile workflows**, code quality, and maintainable, scalable solutions  
+- Committed to delivering **user-centric, innovative, and intelligent digital experiences**  
 
 ---
 
@@ -32,7 +36,6 @@ I'm a passionate Full Stack & ML Developer with experience designing and buildin
 </p>
 
 ---
-
 ## 💻 Tech Stack & Skills
 
 <p align="center">
@@ -43,11 +46,6 @@ I'm a passionate Full Stack & ML Developer with experience designing and buildin
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-F7DF1E?style=for-the-badge&logo=css3&logoColor=white" alt="RWD" />
-  <img src="https://img.shields.io/badge/Accessibility-WCAG2.2-%23007ACC?style=for-the-badge" alt="Accessibility" />
-  <img src="https://img.shields.io/badge/Flexbox-%23323330?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox" />
-  <img src="https://img.shields.io/badge/CSS%20Grid-%23323330?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid" />
-  <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge" alt="Styled Components" />
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -56,56 +54,29 @@ I'm a passionate Full Stack & ML Developer with experience designing and buildin
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Microservices-%236DB33F?style=for-the-badge" alt="Microservices" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
-  <!-- Mobile & App Development -->
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-%23A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <!-- Machine Learning / AI -->
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 
-  <!-- Testing & DevOps -->
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL" />
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" />
-  <img src="https://img.shields.io/badge/Protractor-%23000000?style=for-the-badge" alt="Protractor" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CI%2FCD-%23007ACC?style=for-the-badge" alt="CI/CD" />
-
-  <!-- Cloud -->
+  <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-F7A600?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-%2300BFA5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%232496ED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL" />
+
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounika1507&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mounika1507&theme=blue-green&hide_border=false" />
-</p>
-
----
-
-## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mounika1507&theme=github-dark&hide_border=true&area=true&height=200" width="60%" />
-</p>
-
----
-
-## 📊 Fun Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mounika1507&color=blue&style=flat-square&label=Profile+Views" />
-</p>
-
 ---
 
 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
