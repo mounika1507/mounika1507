@@ -4,22 +4,26 @@
 
 🚀 **About Me**  
 
-I'm a passionate **Senior UI Developer** with **8+ years of experience** designing and building **scalable, high-performance web applications**. I specialize in **frontend development** with modern frameworks and **full-stack solutions** using Java, Node.js, Python, and cloud architectures.  
+I'm a passionate Full Stack & ML Developer with experience designing and building scalable, high-performance web and AI-driven applications. I specialize in frontend and backend development, integrating cloud architectures and machine learning solutions.
 
-- 🔹 Strong expertise in **React.js, Angular, JavaScript, TypeScript, and Java**  
-- 🔹 Experienced in **Spring Boot, Node.js, Python, REST APIs, and cloud-based architectures**  
-- 🔹 Skilled in **building reusable components, improving UI performance & scalability**  
-- 🔹 Advocate of **Agile methodologies, TDD, and code quality best practices**  
-- 🔹 Committed to **accessible, user-friendly, and innovative digital experiences**  
+🔹 Skilled in React.js, Angular, JavaScript, TypeScript, Java, and Python
+
+🔹 Experienced in Node.js, Spring Boot, Express.js, REST APIs, GraphQL, AWS, MongoDB, and PostgreSQL
+
+🔹 Built projects including Driver Drowsiness Detection System, Self-Supervised Image Classification, Forest Fire Prediction, and full-stack apps like GreenBasket, Wellness    Tracker, and User Registration System
+
+🔹 Advocate of Agile workflows, code quality, and maintainable, scalable solutions
+
+🔹 Committed to delivering user-centric, innovative, and intelligent digital experiences
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mounika-u/">
+  <a href="www.linkedin.com/in/uppalapati-mounika">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mounikaw09@gmail.com">
+  <a href="mailto:uppalapati2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/mounika1507">
